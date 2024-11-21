@@ -33,6 +33,8 @@ namespace Tapetes
 		
 		void Button2Click(object sender, EventArgs e)
 		{
+			//este sirve para cuando precionen el boton Circulo, el programa
+			//mande al form llamado Circular
 			Circular cir= new Circular();
 			cir.Show();
 			this.Hide();

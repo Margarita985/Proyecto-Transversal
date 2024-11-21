@@ -17,6 +17,7 @@ namespace Tapetes
 	/// </summary>
 	public partial class Form5 : Form
 	{
+		//aqui recibe los datos del form2
 		public string Dato1Recibido{get; set;}
 		public string Dato2Recibido{get; set;}
 		public string Dato3Recibido{get; set;}
@@ -41,7 +42,8 @@ namespace Tapetes
 		void Form5Load(object sender, EventArgs e)
 		{
 			
-			
+			//en esta parte al momento de ya tener todos los datos, lo que se hace es declarar cada cosa con 
+			// su precio respectivo y se multiplica por el dato ingresado en el form 2
 			int num1=int.Parse(Dato1Recibido);
 			int num2=int.Parse(Dato2Recibido);
 			int num3=int.Parse(Dato3Recibido);
@@ -71,6 +73,7 @@ namespace Tapetes
 			int manodehobra=75;
 			int resul7=num7*manodehobra;
 			
+			//aqui solo se suma todo y el resultado se imprime en un label
 			int suma=resul1+relul2+resul3+resul4+result5+resul6+resul7;
 				
 			label2.Text="$"+suma; 
@@ -78,6 +81,8 @@ namespace Tapetes
 		
 		void Button1Click(object sender, EventArgs e)
 		{
+			//esto nos sirve para cuando se aprete el boton salir automaticamente se 
+			// sierre la bentana
 			foreach (Form form in Application.OpenForms)
 				if(form != this)
 			{

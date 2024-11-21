@@ -33,7 +33,7 @@ namespace Tapetes
 		
 		
 		void Button1Click(object sender, EventArgs e)
-		{
+		{//esta parte solo sirve para cambiar de form
 			Form1 form1 = new Form1();
 			form1.Show();
 		}

@@ -31,7 +31,8 @@ namespace Tapetes
 		
 		 void Button2Click(object sender, EventArgs e)
 		{
-			
+		//toda esta parte sirve para captar los datos y poderlos mandar 
+        //al form final el cual seria el Form5		
 			string dato1=textBox1.Text;
 			string dato2=textBox2.Text;
 			string dato3=textBox3.Text;

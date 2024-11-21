@@ -47,7 +47,7 @@ namespace Tapetes
 		}
 		
 		void Button4Click(object sender, EventArgs e)
-		{
+		{// esto nos hayuda a calcular el area del cuadrado 
 
             double lado;
             if (double.TryParse(textBox1.Text, out lado))
