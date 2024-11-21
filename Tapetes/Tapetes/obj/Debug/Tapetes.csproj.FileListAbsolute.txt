@@ -1,0 +1,39 @@
+C:\Users\marga\Proyecto\Tapetes\Tapetes\obj\Debug\Tapetes.csprojResolveAssemblyReference.cache
+C:\Users\marga\Proyecto\Tapetes\Tapetes\obj\Debug\Tapetes.Form1.resources
+C:\Users\marga\Proyecto\Tapetes\Tapetes\obj\Debug\Tapetes.MainForm.resources
+C:\Users\marga\Proyecto\Tapetes\Tapetes\obj\Debug\Tapetes.csproj.GenerateResource.Cache
+C:\Users\marga\Proyecto\Tapetes\Tapetes\bin\Debug\Tapetes.exe
+C:\Users\marga\Proyecto\Tapetes\Tapetes\bin\Debug\Tapetes.pdb
+C:\Users\marga\Proyecto\Tapetes\Tapetes\obj\Debug\Tapetes.exe
+C:\Users\marga\Proyecto\Tapetes\Tapetes\obj\Debug\Tapetes.pdb
+C:\Users\marga\Proyecto\Tapetes\Tapetes\obj\Debug\Tapetes.Form2.resources
+C:\Users\marga\Proyecto\Tapetes\Tapetes\obj\Debug\Tapetes.Form5.resources
+C:\Users\marga\Proyecto\Tapetes\Tapetes\obj\Debug\Tapetes.Cuadrado.resources
+C:\Users\marga\Proyecto\Tapetes\Tapetes\obj\Debug\Tapetes.Circular.resources
+C:\Users\marga\Proyecto\Tapetes\Tapetes\obj\Debug\Tapetes.Rectangular.resources
+C:\Users\CC1_PC03\Documents\SharpDevelop Projects\Tapetes\Tapetes\obj\Debug\Tapetes.csprojResolveAssemblyReference.cache
+C:\Users\CC1_PC03\Documents\SharpDevelop Projects\Tapetes\Tapetes\obj\Debug\Tapetes.Circular.resources
+C:\Users\CC1_PC03\Documents\SharpDevelop Projects\Tapetes\Tapetes\obj\Debug\Tapetes.Cuadrado.resources
+C:\Users\CC1_PC03\Documents\SharpDevelop Projects\Tapetes\Tapetes\obj\Debug\Tapetes.Form1.resources
+C:\Users\CC1_PC03\Documents\SharpDevelop Projects\Tapetes\Tapetes\obj\Debug\Tapetes.Form2.resources
+C:\Users\CC1_PC03\Documents\SharpDevelop Projects\Tapetes\Tapetes\obj\Debug\Tapetes.Form5.resources
+C:\Users\CC1_PC03\Documents\SharpDevelop Projects\Tapetes\Tapetes\obj\Debug\Tapetes.MainForm.resources
+C:\Users\CC1_PC03\Documents\SharpDevelop Projects\Tapetes\Tapetes\obj\Debug\Tapetes.Rectangular.resources
+C:\Users\CC1_PC03\Documents\SharpDevelop Projects\Tapetes\Tapetes\obj\Debug\Tapetes.csproj.GenerateResource.Cache
+C:\Users\CC1_PC03\Documents\SharpDevelop Projects\Tapetes\Tapetes\obj\Debug\Tapetes.exe
+C:\Users\CC1_PC03\Documents\SharpDevelop Projects\Tapetes\Tapetes\bin\Debug\Tapetes.exe
+C:\Users\CC1_PC03\Documents\SharpDevelop Projects\Tapetes\Tapetes\bin\Debug\Tapetes.pdb
+C:\Users\CC1_PC03\Documents\SharpDevelop Projects\Tapetes\Tapetes\obj\Debug\Tapetes.pdb
+C:\Users\marga\OneDrive\Documentos\SharpDevelop Projects\Tapetes\Tapetes\bin\Debug\Tapetes.exe
+C:\Users\marga\OneDrive\Documentos\SharpDevelop Projects\Tapetes\Tapetes\bin\Debug\Tapetes.pdb
+C:\Users\marga\OneDrive\Documentos\SharpDevelop Projects\Tapetes\Tapetes\obj\Debug\Tapetes.csprojResolveAssemblyReference.cache
+C:\Users\marga\OneDrive\Documentos\SharpDevelop Projects\Tapetes\Tapetes\obj\Debug\Tapetes.Circular.resources
+C:\Users\marga\OneDrive\Documentos\SharpDevelop Projects\Tapetes\Tapetes\obj\Debug\Tapetes.Cuadrado.resources
+C:\Users\marga\OneDrive\Documentos\SharpDevelop Projects\Tapetes\Tapetes\obj\Debug\Tapetes.Form1.resources
+C:\Users\marga\OneDrive\Documentos\SharpDevelop Projects\Tapetes\Tapetes\obj\Debug\Tapetes.Form2.resources
+C:\Users\marga\OneDrive\Documentos\SharpDevelop Projects\Tapetes\Tapetes\obj\Debug\Tapetes.Form5.resources
+C:\Users\marga\OneDrive\Documentos\SharpDevelop Projects\Tapetes\Tapetes\obj\Debug\Tapetes.MainForm.resources
+C:\Users\marga\OneDrive\Documentos\SharpDevelop Projects\Tapetes\Tapetes\obj\Debug\Tapetes.Rectangular.resources
+C:\Users\marga\OneDrive\Documentos\SharpDevelop Projects\Tapetes\Tapetes\obj\Debug\Tapetes.csproj.GenerateResource.Cache
+C:\Users\marga\OneDrive\Documentos\SharpDevelop Projects\Tapetes\Tapetes\obj\Debug\Tapetes.exe
+C:\Users\marga\OneDrive\Documentos\SharpDevelop Projects\Tapetes\Tapetes\obj\Debug\Tapetes.pdb
